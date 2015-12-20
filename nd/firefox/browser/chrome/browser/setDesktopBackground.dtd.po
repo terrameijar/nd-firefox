@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-20 14:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /nd/firefox/browser/chrome/browser/setDesktopBackground.dtd."
+"po\n"
+"X-Pootle-Revision: 0\n"
+
+#. This Source Code Form is subject to the terms of the Mozilla Public
+#. - License, v. 2.0. If a copy of the MPL was not distributed with this
+#. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#: position.label
+msgid "Position:"
+msgstr "Indawo:"
+
+#: tile.label
+msgid "Tile"
+msgstr ""
+
+#: center.label
+msgid "Center"
+msgstr "Phakathi Laphakathi"
+
+#: stretch.label
+msgid "Stretch"
+msgstr "Donsa"
+
+#: fill.label
+msgid "Fill"
+msgstr "Gcwalisa"
+
+#: fit.label
+msgid "Fit"
+msgstr "Kwenze Kukwane"
+
+#: preview.label
+msgid "Preview"
+msgstr "Bona"
+
+#: color.label
+msgid "Color:"
+msgstr "Umbala:"
+
+#: setDesktopBackground.title
+msgid "Set Desktop Background"
+msgstr "Kwenze kube Ngumfanekiso we-Desktop"
+
+#: openDesktopPrefs.label
+msgid "Open Desktop Preferences"
+msgstr "Vula Amasethingi e-Desktop"
+
+#: closeWindow.key
+msgid "w"
+msgstr "w"

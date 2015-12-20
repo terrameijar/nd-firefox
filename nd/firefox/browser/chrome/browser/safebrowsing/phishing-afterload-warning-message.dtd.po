@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-20 14:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /nd/firefox/browser/chrome/browser/safebrowsing/phishing-"
+"afterload-warning-message.dtd.po\n"
+"X-Pootle-Revision: 1744031\n"
+
+#. This Source Code Form is subject to the terms of the Mozilla Public
+#. - License, v. 2.0. If a copy of the MPL was not distributed with this
+#. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
+#: safeb.palm.accept.label
+msgid "Get me out of here!"
+msgstr "Ngikhiphe lapha!"
+
+#: safeb.palm.decline.label
+msgid "Ignore this warning"
+msgstr "Tshiyana lalesisoxhwayiso"
+
+#: safeb.palm.notforgery.label2
+msgid "This isn't a web forgery…"
+msgstr "Lokhu akusikho kufojwa kwewebhu…"
+
+#: safeb.palm.reportPage.label
+msgid "Why was this page blocked?"
+msgstr "Kungani lelikhasi livinjiwe"
+
+#: safeb.blocked.malwarePage.title
+msgid "Reported Attack Page!"
+msgstr "Ikhasi lokuhlasela elibikiweyo!"
+
+#. Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.malwarePage.shortDesc
+msgid ""
+"This web page at <span id='malware_sitename'/> has been reported as an "
+"attack page and has been blocked based on your security preferences."
+msgstr ""
+"Lelikhasi e<span id='malware_sitename'/> selibikiwe njenge \"khasi "
+"lokuhlasela ngakho-ke selivinjiwe ngesisekelo sama-settings awezokuvikeleka "
+"kwakho.\""
+
+#: safeb.blocked.malwarePage.longDesc
+msgid ""
+"<p>Attack pages try to install programs that steal private information, use "
+"your computer to attack others, or damage your system.</p><p>Some attack "
+"pages intentionally distribute harmful software, but many are compromised "
+"without the knowledge or permission of their owners.</p>"
+msgstr ""
+"<p>Amakhasi ahlaselayo ayazama ukufaka inhlelo ezintshontsha imfihlo yakho, "
+"asebenzise ikhompyutha yakho ukuhlasela abanye, kumbe alimaze ikhompyutha "
+"yakho. </p><p> Amanye amakhasi okuhlasela ajonge ukwaba inhlelo ezilimazayo, "
+"kodwa ezinengi zehlelwa ngumonakalo bengazi kumbe bengelamvumo yabanikazi "
+"bayo.</p>"
+
+#: safeb.blocked.unwantedPage.title
+msgid "Reported Unwanted Software Page!"
+msgstr ""
+
+#. Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.unwantedPage.shortDesc
+#, fuzzy
+msgid ""
+"This web page at <span id='unwanted_sitename'/> has been reported to contain "
+"unwanted software and has been blocked based on your security preferences."
+msgstr ""
+"Lelikhasi e<span id='malware_sitename'/> selibikiwe njenge \"khasi "
+"lokuhlasela ngakho-ke selivinjiwe ngesisekelo sama-settings awezokuvikeleka "
+"kwakho.\""
+
+#: safeb.blocked.unwantedPage.longDesc
+msgid ""
+"<p>Unwanted software pages try to install software that can be deceptive and "
+"affect your system in unexpected ways.</p>"
+msgstr ""
+
+#: safeb.blocked.phishingPage.title
+msgid "Reported Web Forgery!"
+msgstr "Iwebhu Lokufojwa Libikiwe!"
+
+#. Localization note (safeb.blocked.phishingPage.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.phishingPage.shortDesc
+msgid ""
+"This web page at <span id='phishing_sitename'/> has been reported as a web "
+"forgery and has been blocked based on your security preferences."
+msgstr ""
+"Lelikhasi ku <span id='phishing_sitename'/> selibikwe njengikufojwa kwewebhu "
+"njalo selivinjiwe ngesisekelo senhlelo zakho eziphathelane lokuvikeleka."
+
+#: safeb.blocked.phishingPage.longDesc
+msgid ""
+"<p>Web forgeries are designed to trick you into revealing personal or "
+"financial information by imitating sources you may trust.</p><p>Entering any "
+"information on this web page may result in identity theft or other fraud.</p>"
+msgstr ""
+"<p>Ukufojwa kwamawebhu kukhandelwe ukuyenga uveze imininingwane ephathelane "
+"lawe kumbe ezemali ngokulingisela indawo ozithembayo.</p><p>Ukufaka iloba "
+"yiphi imininingwane kulelikhasi lewebhu kungabangela ukuthi wena ulungiswe "
+"kumbe obunye ubugwelegwele.</p>"
+
+#: safeb.blocked.forbiddenPage.title
+msgid "Forbidden Site"
+msgstr ""
+
+#. Localization note (safeb.blocked.forbiddenPage.shortDesc) - Please don't translate the contents of the <span id="forbidden_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com)
+#: safeb.blocked.forbiddenPage.shortDesc
+msgid ""
+"This Web page at <span id='forbidden_sitename'/> has been blocked based on "
+"your browser configuration."
+msgstr ""

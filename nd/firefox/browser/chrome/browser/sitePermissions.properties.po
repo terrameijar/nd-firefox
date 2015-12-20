@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-20 14:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Pootle-Path: /nd/firefox/browser/chrome/browser/sitePermissions.properties."
+"po\n"
+"X-Pootle-Revision: 1744039\n"
+
+#: allow
+msgid "Allow"
+msgstr "Vumela"
+
+#: allowForSession
+msgid "Allow for Session"
+msgstr "Vumela Okwale Iseshini"
+
+#: block
+msgid "Block"
+msgstr "Vimba"
+
+#: alwaysAsk
+msgid "Always Ask"
+msgstr "Hlala Ubuza"
+
+#: permission.cookie.label
+msgid "Set Cookies"
+msgstr "Setha Amakhukhi"
+
+#: permission.desktop-notification2.label
+msgid "Receive Notifications"
+msgstr ""
+
+#: permission.image.label
+msgid "Load Images"
+msgstr "Layitsha imfanekiso"
+
+#: permission.camera.label
+msgid "Use the Camera"
+msgstr "Sebenzisa IKhamera"
+
+#: permission.microphone.label
+msgid "Use the Microphone"
+msgstr "Sebenzisa I-Microphone"
+
+#: permission.install.label
+msgid "Install Add-ons"
+msgstr "Faka Izengezelelo"
+
+#: permission.popup.label
+msgid "Open Pop-up Windows"
+msgstr "Vula Ama-Window azivelelayo"
+
+#: permission.geo.label
+msgid "Access Your Location"
+msgstr "Finyelela Indawo Okuyo"
+
+#: permission.indexedDB.label
+msgid "Maintain Offline Storage"
+msgstr "Gcina Izinto Ngaphandle Koxhumo"
+
+#: permission.pointerLock.label
+msgid "Hide the Mouse Pointer"
+msgstr ""
