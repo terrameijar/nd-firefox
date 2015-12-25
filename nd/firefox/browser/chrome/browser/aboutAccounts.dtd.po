@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Firefox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 14:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: nd\n"
+"PO-Revision-Date: 2015-12-25 22:23+0200\n"
+"Last-Translator: Terrameijar <terrameijar@gmail.com>\n"
+"Language-Team: Mozilla Zimbabwe <contact@mozilla-zimbabwe.org>\n"
+"Language: Northern Ndebele\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Pootle-Path: /nd/firefox/browser/chrome/browser/aboutAccounts.dtd.po\n"
 "X-Pootle-Revision: 1743973\n"
 
@@ -23,34 +23,34 @@ msgstr "Siyakwamukela ku &syncBrand.shortName.label;"
 
 #: aboutAccounts.connected
 msgid "Account connected"
-msgstr ""
+msgstr "I account isikhonekhthile"
 
 #: aboutAccountsConfig.description
 msgid "Sign in to sync your tabs, bookmarks, passwords & more."
 msgstr ""
-"Ngena ukue uhambelanise amathebhu, amabhukhmakhi, lamapasiwedi akho lokunye "
-"okunengi."
+"Ngena ku sync ukuze uhambelanise amathebhu, amabhukhmakhi, amapasiwedi  "
+"lokunye okunengi."
 
 #: aboutAccountsConfig.startButton.label
 msgid "Get started"
-msgstr "Qala"
+msgstr "Qalisa"
 
 #: aboutAccountsConfig.useOldSync.label
 msgid "Using an older version of Sync?"
-msgstr "Usebenzisa ivezhini endala yeSync na?"
+msgstr "Usebenzisa ivezhini ye Sync endala?"
 
 #: aboutAccountsConfig.syncPreferences.label
 msgid "Sync preferences"
-msgstr ""
+msgstr "Ama sethingi esync"
 
 #: aboutAccounts.noConnection.title
 msgid "No connection"
-msgstr ""
+msgstr "Akula connection"
 
 #: aboutAccounts.noConnection.description
 msgid "You must be connected to the Internet to sign in."
-msgstr ""
+msgstr "Kumele ube ukhonekthe ku Internet ukuze ungene"
 
 #: aboutAccounts.noConnection.retry
 msgid "Try again"
-msgstr ""
+msgstr "Zama futhi"
