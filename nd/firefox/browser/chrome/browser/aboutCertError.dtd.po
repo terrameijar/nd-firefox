@@ -1,18 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Firefox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 14:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-12-27 18:04+0200\n"
 "Language: nd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Pootle-Path: /nd/firefox/browser/chrome/browser/aboutCertError.dtd.po\n"
 "X-Pootle-Revision: 1743974\n"
+"Last-Translator: \n"
+"Language-Team: Ndebele <contact@mozilla-zimbabwe.org>\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. %brandDTD;
 #. These strings are used by Firefox's custom about:certerror page,
@@ -20,11 +21,11 @@ msgstr ""
 #. by NSS/PSM via netError.xhtml.
 #: certerror.pagetitle1
 msgid "Insecure Connection"
-msgstr ""
+msgstr "I-connection yakho kayithembakalanga"
 
 #: certerror.longpagetitle1
 msgid "Your connection is not secure"
-msgstr ""
+msgstr "I-connection yakho kayithembakalanga"
 
 #. Localization note (certerror.introPara) - The text content of the span tag
 #. will be replaced at runtime with the name of the server to which the user
@@ -35,28 +36,34 @@ msgid ""
 "improperly.  To protect your information from being stolen, &brandShortName; "
 "has not connected to this website."
 msgstr ""
+"Umnikazi we-<span class='hostname'/> kalungisanga I-website yakhe kuhle. "
+"Ukuvikela ulwazi lawakho ekuntshontshweni &brandShortName; kayizange "
+"ihlangna le-website."
 
 #: certerror.returnToPreviousPage.label
 msgid "Go Back"
-msgstr ""
+msgstr "Buyela emuva"
 
 #: certerror.learnMore
+#, fuzzy
 msgid "Learn more…"
-msgstr ""
+msgstr "Funda ngokunengi..."
 
 #: certerror.advanced.label
+#, fuzzy
 msgid "Advanced"
-msgstr ""
+msgstr "Okungaphezulu"
 
+# Translation string incomplete
 #: certerror.whatShouldIDo.badStsCertExplanation
 msgid ""
 "This site uses HTTP \n"
 "Strict Transport Security (HSTS) to specify that &brandShortName; only "
 "connect \n"
-"to it securely. As a result, it is not possible to add an exception for this "
-"\n"
+"to it securely. As a result, it is not possible to add an exception for "
+"this \n"
 "certificate."
-msgstr ""
+msgstr "I-website le isebenzisa I-HTTP "
 
 #: certerror.expert.content
 msgid ""
@@ -66,8 +73,8 @@ msgid ""
 "tampering with your connection.</b>"
 msgstr ""
 "Nxa uzwisisa ukuthi kwenzakalani, \n"
-"ungatshela i-&brandShortName; ukuthi iqale ukuthemba ufaniso wale isayithi. "
-"\n"
+"ungatshela i-&brandShortName; ukuthi iqale ukuthemba ufaniso wale "
+"isayithi. \n"
 "<b>Lanxa ulithemba leli sayithi, leli phutha lingatsho ukuthi kulomuntu \n"
 "ozama okuthize ngoxhumo lwakho.</b>"
 
@@ -81,7 +88,9 @@ msgstr ""
 "uyazi ukuthi kulesizatho esihle esenza ukuthi lesayithi ingasebenzisi "
 "ufaniso oluthembekileyo."
 
+# Is "yengeza" the contextual word for this case? It kind of insinuates you are putting more exception as opposed to just "filing" an exception
 #: certerror.addException.label
+#, fuzzy
 msgid "Add Exception…"
 msgstr "Yengeza i-exception…"
 
