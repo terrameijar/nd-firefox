@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: Firefox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 14:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-12-28 09:41+0200\n"
 "Language: nd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.13.0\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Pootle-Path: /nd/firefox/browser/chrome/browser/aboutSessionRestore.dtd."
 "po\n"
 "X-Pootle-Revision: 1743981\n"
+"Last-Translator: \n"
+"Language-Team: Ndebele <contact@mozilla-zimbabwe.org>\n"
 
 #. This Source Code Form is subject to the terms of the Mozilla Public
 #. - License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -85,33 +85,33 @@ msgstr "Iwindi %S"
 #. not for about:sessionstore
 #: welcomeback2.restoreButton
 msgid "Let's go!"
-msgstr ""
+msgstr "Asenze!"
 
 #: welcomeback2.restoreButton.access
 msgid "L"
-msgstr ""
+msgstr "L"
 
 #: welcomeback2.tabtitle
 msgctxt "welcomeback2.tabtitle"
 msgid "Success!"
-msgstr ""
+msgstr "Kwenzile!"
 
 #: welcomeback2.pageTitle
 msgctxt "welcomeback2.pageTitle"
 msgid "Success!"
-msgstr ""
+msgstr "Kwenzile!"
 
 #: welcomeback2.pageInfo1
 msgid "&brandShortName; is ready to go."
-msgstr ""
+msgstr "I-&brandShortName; simelele ukwenza"
 
 #: welcomeback2.label.restoreAll
 msgid "Restore all Windows and Tabs"
-msgstr ""
+msgstr "Buyisela ama-windows lama tabs"
 
 #: welcomeback2.label.restoreSome
 msgid "Restore only the ones you want"
-msgstr ""
+msgstr "Buyisela owafisayo nje"
 
 #. LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 #. welcomeback2.afterlink.pageInfo2): these two string are used respectively
@@ -123,6 +123,9 @@ msgid ""
 "Your add-ons and customizations have been removed and your browser settings "
 "have been restored to their defaults. If this didn't fix your issue, "
 msgstr ""
+"Ama add-on akho lokulungisa kwakho sokukhutshiwe kwathi amasethingi e-"
+"browser yakho abiselwa esimweni kuqala. Nxa lokhu kungalungisanga inking "
+"yakho,"
 
 #: welcomeback2.afterlink.pageInfo2
 msgctxt "welcomeback2.afterlink.pageInfo2"
@@ -131,33 +134,37 @@ msgstr ""
 
 #: welcomeback2.link.pageInfo2
 msgid "learn more about what you can do."
-msgstr ""
+msgstr "funda ngokunengi ongakwenza"
 
 #. LOCALIZATION NOTE: The following 'tabgroupsmigration' strings are for
 #. the tab groups (panorama) migration page, not about:sessionrestore
 #: tabgroupsmigration.tabtitle
 msgid "Migrate your other Tab Groups"
-msgstr ""
+msgstr "Tshintsha ama-tab groups akho amanye"
 
 #: tabgroupsmigration.pagetitle2
 msgid "We've removed Tab Groups, but saved your tabs"
-msgstr ""
+msgstr "Sikhuphe ama-tab groups, kodwa satshiya ama tabs akho"
 
 #: tabgroupsmigration.learnaboutaddons
 msgid "Learn about Tab Groups replacement add-ons."
-msgstr ""
+msgstr "Funda ngama-tab groups lama replacement add-ons"
 
 #: tabgroupsmigration.description2
 msgid ""
 "&brandShortName; has bookmarked all your groups so you haven't lost anything."
 msgstr ""
+"I-&brandShortName; isifake ama-bookmark kuma-group akho kusitsho ukuba "
+"awulahlekelwanga yilutho"
 
 #: tabgroupsmigration.bookmarkbutton
 msgid "Show Bookmarked Tab Groups"
-msgstr ""
+msgstr "Tshengisa ama-tab groups akuma-Bookmark"
 
 #: tabgroupsmigration.restoredescription
 msgid ""
 "You can also choose to restore some or all background groups into windows "
 "now:"
 msgstr ""
+"Ungakhetha ukuba ubuyisele amanye kumbe wonke ama-background groups  abe "
+"ngama-window"
