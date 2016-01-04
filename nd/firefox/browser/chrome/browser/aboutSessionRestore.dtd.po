@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Firefox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 14:03+0000\n"
-"PO-Revision-Date: 2015-12-28 09:41+0200\n"
+"PO-Revision-Date: 2016-01-05 00:12+0200\n"
 "Language: nd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgid ""
 "&brandShortName; is having trouble recovering your windows and tabs. This is "
 "usually caused by a recently opened web page."
 msgstr ""
-"i- &brandShortName; iba lobunzima ekutholeni ama-window lamathebhu akho. "
+"i &brandShortName; iba lobunzima ekutholeni ama-window lamathebhu akho. "
 "Lokhu kubangelwa yikuvulwa kwekhasi lewebhu okwenzakale khathesi."
 
 #: restorepage.tryThis
@@ -103,7 +103,7 @@ msgstr "Kwenzile!"
 
 #: welcomeback2.pageInfo1
 msgid "&brandShortName; is ready to go."
-msgstr "I-&brandShortName; simelele ukwenza"
+msgstr "I &brandShortName; simelele ukwenza"
 
 #: welcomeback2.label.restoreAll
 msgid "Restore all Windows and Tabs"
@@ -154,7 +154,7 @@ msgstr "Funda ngama-tab groups lama replacement add-ons"
 msgid ""
 "&brandShortName; has bookmarked all your groups so you haven't lost anything."
 msgstr ""
-"I-&brandShortName; isifake ama-bookmark kuma-group akho kusitsho ukuba "
+"&brandShortName; isifake ama-bookmark kuma-group akho kusitsho ukuba "
 "awulahlekelwanga yilutho"
 
 #: tabgroupsmigration.bookmarkbutton
@@ -166,5 +166,5 @@ msgid ""
 "You can also choose to restore some or all background groups into windows "
 "now:"
 msgstr ""
-"Ungakhetha ukuba ubuyisele amanye kumbe wonke ama-background groups  abe "
+"Ungakhetha ukuba ubuyisele amanye kumbe wonke ama-background groups abe "
 "ngama-window"
