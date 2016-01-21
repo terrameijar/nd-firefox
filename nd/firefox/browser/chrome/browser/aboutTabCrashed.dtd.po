@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Firefox\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-20 14:03+0000\n"
-"PO-Revision-Date: 2016-01-22 01:12+0200\n"
+"PO-Revision-Date: 2016-01-22 01:19+0200\n"
 "Language: nd\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +19,7 @@ msgstr ""
 #. - file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #: tabCrashed.header
 msgid "Bad news first: This tab has crashed"
-msgstr "Indaba ezimbi kuqala. I-tab siqalekile"
+msgstr "Indaba ezimbi kuqala. I-tab siqalekile."
 
 #: tabCrashed.message
 msgid ""
